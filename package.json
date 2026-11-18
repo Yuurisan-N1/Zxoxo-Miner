@@ -1,0 +1,16 @@
+{
+  "name": "zxoxo-bot",
+  "version": "1.0.0",
+  "description": "ZXOXO mining automation bot.",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "yuurisan": "^1.0.2"
+  }
+}
